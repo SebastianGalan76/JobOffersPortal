@@ -1,6 +1,6 @@
 # Backend portalu z ofertami pracy
 
-<b>Strona główna</b>: https://joingamedev.pl/
+<b>Strona główna</b>: https://demo.joingamedev.pl/
 
 <h2>Opis projektu</h2>
 Projektem jest aplikację internetową, która służy jako dedykowany portal do zamieszczania i przeglądania ofert pracy w branży gier. Aplikacja została stworzona z myślą o profesjonalistach i pasjonatach gier, poszukujących możliwości zatrudnienia, jak i firmach, które pragną znaleźć odpowiednich kandydatów do swoich zespołów.
